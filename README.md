@@ -12,5 +12,8 @@ A diabetes dataset was used to determine the best performing machine learning mo
 ### Oil and Gas Machine Learning Application
 This work explores the ways machine learning can be applied to the oil and gas industry and in this instance, machine learning is used for reservoir characterization to produce information about the reservoir's qualities. A facies classier was created to identify the labels of bodies of rocks 
 
+### National Pollutant Release Inventory (NPRI) Project
+As part of another group project with Roe Alincastre and Kendrick Kent Moreno, this project looks into the methanol and ethanol substance releases across Canada from the span of 1993 to 2022. The objective is to predict these substance releases for the year 2023, based on the National Pollutant Release Inventory (NPRI). 
+
 ### National Pollutant Release Inventory (NPRI) Substance Release Dashboard
 As part of another group project with Roe Alincastre and Kendrick Kent Moreno, an interactive Tableau dashboard was developed to present substance releases of methanol and ethanol based on data from the National Pollutant Release Inventory (NPRI). 
